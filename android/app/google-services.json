@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566962550940",
+    "firebase_url": "https://marketing-data-d141d-default-rtdb.firebaseio.com",
+    "project_id": "marketing-data-d141d",
+    "storage_bucket": "marketing-data-d141d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566962550940:android:0eca75a46d46e9769e5559",
+        "android_client_info": {
+          "package_name": "com.onwords.admin_console"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566962550940-l5vh3lqrsl1duk503ufk2ndir3h1v3pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTeiCYTB_npcWKKxl-Oj0StQLTmaFOaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566962550940-l5vh3lqrsl1duk503ufk2ndir3h1v3pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566962550940-endjunsltc7nk2a0424qb37ag8efgal5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nikhil.nikhil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
